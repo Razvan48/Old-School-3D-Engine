@@ -9,6 +9,6 @@
 
 **Controls:** <br/>
 
-&emsp; WASD for moving around. <br/>
+&emsp; WASD for moving around <br/>
 
 
