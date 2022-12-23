@@ -16,7 +16,7 @@
 
 int main()
 {
-	Window* window = new Window(756, 756, "Haunted House Escape");
+	Window* window = new Window(756, 756, "Old-School 3D Game Engine");
 
 	SpaceRenderer* spaceRenderer = new SpaceRenderer("Renderers/SpaceRenderer/Shaders/SpaceVertexShader.txt", "Renderers/SpaceRenderer/Shaders/SpaceFragmentShader.txt", window);
 	EntityRenderer* entityRenderer = new EntityRenderer("Renderers/EntityRenderer/Shaders/EntityVertexShader.txt", "Renderers/EntityRenderer/Shaders/EntityFragmentShader.txt", window);
