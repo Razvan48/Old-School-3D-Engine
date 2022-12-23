@@ -1,0 +1,2 @@
+C:/Users/razvan/Desktop/Informatica/Jocuri Visual Studio/source/repos/Haunted House Escape/OpenGL/glm/include/out/build/x64-Debug (default)/CMakeFiles/edit_cache.dir
+C:/Users/razvan/Desktop/Informatica/Jocuri Visual Studio/source/repos/Haunted House Escape/OpenGL/glm/include/out/build/x64-Debug (default)/CMakeFiles/rebuild_cache.dir

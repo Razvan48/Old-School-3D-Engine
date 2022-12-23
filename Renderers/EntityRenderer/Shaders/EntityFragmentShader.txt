@@ -1,0 +1,18 @@
+#version 330 core
+
+in vec2 passedTextureCoord;
+out vec4 fragColor;
+
+uniform sampler2D texture0;
+
+void main()
+{
+	vec4 textureColor = texture(texture0, passedTextureCoord);
+
+	if (textureColor.rgb == vec3(1.0, 1.0, 1.0))
+	{
+	    discard;
+	}
+
+	fragColor = textureColor;
+}

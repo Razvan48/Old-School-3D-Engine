@@ -1,0 +1,11 @@
+﻿  Player.cpp
+  EntityRenderer.cpp
+  SpaceRenderer.cpp
+  UserInputManager.cpp
+  main.cpp
+  Generating code
+  2 of 299 functions ( 0.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Old-School 3D Engine.vcxproj -> C:\Users\razvan\Desktop\Old-School 3D Engine\Release\Old-School 3D Engine.exe

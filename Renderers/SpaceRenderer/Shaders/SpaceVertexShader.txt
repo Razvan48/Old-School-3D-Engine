@@ -1,0 +1,14 @@
+#version 330 core
+
+layout (location = 0) in vec2 vertexCoord;
+layout (location = 1) in vec2 textureCoord;
+
+uniform mat4 ortho;
+
+out vec2 passedTextureCoord;
+
+void main()
+{
+	gl_Position = ortho * vec4(vertexCoord, 0.0f, 1.0f);
+	passedTextureCoord = textureCoord;
+}
