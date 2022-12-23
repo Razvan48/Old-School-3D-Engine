@@ -4,7 +4,7 @@
 &emsp; All sprites (including buttons, flags and bombs) are made from scratch. <br/>
 
 <p align = "center">
-  <img width="400" height="533" src="https://github.com/Razvan48/Old-School-3D-Engine/blob/main/Demo/Old-School 3D Engine Demo.gif">
+  <img width="400" height="500" src="https://github.com/Razvan48/Old-School-3D-Engine/blob/main/Demo/Old-School 3D Engine Demo.gif">
 </p>
 
 **Controls:** <br/>
